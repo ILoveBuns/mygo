@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a907f139-5b5f-4cd2-9168-dd0a1c38dd70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/monkeydemo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/monkeydemo_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mian.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/monkeydemo.go" beforeDir="false" afterPath="$PROJECT_DIR$/demo/monkeydemo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/monkeydemo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/demo/monkeydemo_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +17,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mian.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-7">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -28,10 +26,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/monkeydemo_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="290">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
-                <element signature="e#14#59#0" expanded="true" />
+                <element signature="e#14#72#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,8 +38,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../bou.ke/monkey/monkey.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="51" column="1" selection-start-line="51" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/testing/testing.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="826" selection-start-line="826" selection-end-line="826" />
             </state>
           </provider>
         </entry>
@@ -49,17 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/monkeydemo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="38" column="17" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/golang/src/bufio/bufio.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="304">
+              <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -73,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="e:\golang" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -86,16 +84,14 @@
         <option value="$PROJECT_DIR$/demoMain/mytest.go" />
         <option value="$PROJECT_DIR$/demoMain/processfun_test.go" />
         <option value="$PROJECT_DIR$/mian.go" />
-        <option value="$PROJECT_DIR$/demo/monkeydemo.go" />
         <option value="$PROJECT_DIR$/demo/monkeydemo_test.go" />
+        <option value="$PROJECT_DIR$/demo/monkeydemo.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -103,6 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,15 +112,10 @@
               <item name="mygo" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mygo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,6 +124,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -157,17 +150,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestQueryMain_1 in mygo/demo">
-    <configuration name="go build monkeydemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="mygo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo/monkeydemo.go" />
-      <package value="mygo" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestProcessMain_1 in mygo/demo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.monkeydemo_test.go">
+    <configuration name="TestGetCourseDefMain in mygo/demo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="mygo" />
       <working_directory value="$PROJECT_DIR$/demo" />
       <framework value="gotest" />
@@ -175,10 +159,10 @@
       <package value="mygo/demo" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestProcessMain_1$" />
+      <pattern value="^TestGetCourseDefMain$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestQueryMain_1 in mygo/demo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGetCourseDefMain_1 in mygo/demo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="mygo" />
       <working_directory value="$PROJECT_DIR$/demo" />
       <framework value="gotest" />
@@ -186,10 +170,10 @@
       <package value="mygo/demo" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestQueryMain_1$" />
+      <pattern value="^TestGetCourseDefMain_1$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestQueryMain_2 in mygo/demo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHasReturnMain in mygo/demo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="mygo" />
       <working_directory value="$PROJECT_DIR$/demo" />
       <framework value="gotest" />
@@ -197,7 +181,18 @@
       <package value="mygo/demo" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestQueryMain_2$" />
+      <pattern value="^TestHasReturnMain$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHasReturnMain_1 in mygo/demo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="mygo" />
+      <working_directory value="$PROJECT_DIR$/demo" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="mygo/demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestHasReturnMain_1$" />
       <method v="2" />
     </configuration>
     <configuration name="monkeydemo_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -212,44 +207,44 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestQueryMain_1 in mygo/demo" />
-        <item itemvalue="Go Test.TestQueryMain_2 in mygo/demo" />
-        <item itemvalue="Go Test.TestProcessMain_1 in mygo/demo" />
         <item itemvalue="Go Test.monkeydemo_test.go" />
-        <item itemvalue="Go Build.go build monkeydemo.go" />
+        <item itemvalue="Go Test.TestGetCourseDefMain_1 in mygo/demo" />
+        <item itemvalue="Go Test.TestHasReturnMain_1 in mygo/demo" />
+        <item itemvalue="Go Test.TestHasReturnMain in mygo/demo" />
+        <item itemvalue="Go Test.TestGetCourseDefMain in mygo/demo" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 32m 48s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestHasReturnMain_in_mygo_demo - 2019.06.06 at 11h 00m 40s.xml">
+      <configuration name="TestHasReturnMain in mygo/demo" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 33m 23s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="monkeydemo_test_go - 2019.06.06 at 11h 42m 46s.xml">
+      <configuration name="monkeydemo_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 33m 39s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestHasReturnMain_1_in_mygo_demo - 2019.06.06 at 11h 45m 48s.xml">
+      <configuration name="TestHasReturnMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 33m 53s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestHasReturnMain_1_in_mygo_demo - 2019.06.06 at 11h 45m 53s.xml">
+      <configuration name="TestHasReturnMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 34m 51s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestHasReturnMain_1_in_mygo_demo - 2019.06.06 at 11h 46m 12s.xml">
+      <configuration name="TestHasReturnMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 35m 18s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestHasReturnMain_1_in_mygo_demo - 2019.06.06 at 11h 53m 48s.xml">
+      <configuration name="TestHasReturnMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 35m 25s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="monkeydemo_test_go - 2019.06.06 at 11h 53m 54s.xml">
+      <configuration name="monkeydemo_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 35m 42s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="monkeydemo_test_go - 2019.06.06 at 11h 58m 54s.xml">
+      <configuration name="monkeydemo_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 37m 17s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestGetCourseDefMain_1_in_mygo_demo - 2019.06.06 at 12h 20m 57s.xml">
+      <configuration name="TestGetCourseDefMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestQueryMain_1_in_mygo_demo - 2019.06.06 at 00h 37m 29s.xml">
-      <configuration name="TestQueryMain_1 in mygo/demo" configurationId="GoTestRunConfiguration" />
+    <history-entry file="monkeydemo_test_go - 2019.06.06 at 12h 24m 13s.xml">
+      <configuration name="monkeydemo_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -262,23 +257,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83938813" visible="true" weight="0.23457584" />
-      <window_info id="Structure" order="1" sideWeight="0.16061185" side_tool="true" visible="true" weight="0.23457584" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83670294" visible="true" weight="0.23695421" />
+      <window_info id="Structure" order="1" sideWeight="0.16329704" side_tool="true" visible="true" weight="0.23695421" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29514825" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45049506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980198" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3301887" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36336634" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -294,13 +288,7 @@
     <SUITE FILE_PATH="coverage/mygo$TestProcessMain_1_in_mygo_demo.out" NAME="TestProcessMain_1 in mygo/demo Coverage Results" MODIFIED="1559747987336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/golang/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="693" column="20" selection-start-line="693" selection-start-column="20" selection-end-line="693" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/golang/src/runtime/panic.go" />
     <entry file="file://$PROJECT_DIR$/main.go" />
     <entry file="file://$PROJECT_DIR$/demoMain/XlsDemo.go" />
     <entry file="file://$PROJECT_DIR$/demoMain/OssDemo.go" />
@@ -313,68 +301,45 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoMain/interfaceDemo.go" />
+    <entry file="file://E:/golang/src/runtime/asm_amd64.s" />
+    <entry file="file://E:/golang/src/bufio/bufio.go" />
+    <entry file="file://E:/golang/src/testing/testing.go" />
+    <entry file="file://E:/golang/src/fmt/print.go" />
+    <entry file="file://E:/golang/src/builtin/builtin.go" />
     <entry file="file://$PROJECT_DIR$/mian.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-7">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/golang/src/runtime/asm_amd64.s">
+    <entry file="file:///usr/local/go/src/testing/testing.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33425">
-          <caret line="1337" selection-start-line="1337" selection-end-line="1337" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/golang/src/bufio/bufio.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/golang/src/testing/testing.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="868" selection-start-line="868" selection-end-line="868" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/golang/src/fmt/print.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="273" column="5" selection-start-line="273" selection-start-column="5" selection-end-line="273" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/golang/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="826" selection-start-line="826" selection-end-line="826" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../bou.ke/monkey/monkey.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="51" column="1" selection-start-line="51" selection-end-line="51" selection-end-column="1" />
+        <state relative-caret-position="221">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/monkeydemo.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="17" />
+        <state relative-caret-position="304">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/monkeydemo_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="290">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
-            <element signature="e#14#59#0" expanded="true" />
+            <element signature="e#14#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
